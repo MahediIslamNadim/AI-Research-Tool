@@ -1,0 +1,4 @@
+{
+  "src": "research-tool/**",
+  "use": "@vercel/next"
+}
